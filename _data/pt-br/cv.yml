@@ -2,31 +2,30 @@
   type: map
   contents:
     - name: Nome Completo
-      value: Albert Einstein
+      value: Daniel Aguilar Gomes
     - name: Data de Nascimento
-      value: 14 de março de 1879
+      value: 19 de Maio de 1996
+    - name: Local de Nascimento
+      value: Bauru - SP
     - name: Idiomas
-      value: Inglês, Alemão
+      value: Português (nativo), Inglês (fluente), Francês (intermediário)
 
 - title: Educação
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurique, Suíça
-      year: 1905
+    - title: Doutorado em Matemática
+      institution: Universidade Estadual de Campinas, Brasil
+      year: 2021 -
       description:
-        - Descrição 1.
-        - Descrição 2.
-        - title: Descrição 3.
-          contents:
-            - Sub-descrição 1.
-            - Sub-descrição 2.
-    - title: Diploma de ensino federal
-      institution: Eidgenössische Technische Hochschule, Zurique, Suíça
-      year: 1900
+        - Orientador&#58;	Régis Varão
+    - title: Mestrado em Matemática
+      institution: Universidade Estadual de Campinas, Brasil
+      year: 2019 - 2021
       description:
-        - Descrição 1.
-        - Descrição 2.
+        - Orientador&#58;	Régis Varão
+    - title: Bacharelado em Matemática
+      institution: Universidade Estadual de Campinas, Brasil
+      year: 2015 - 2018
 
 - title: Experiência
   type: time_table

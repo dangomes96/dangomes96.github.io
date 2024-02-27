@@ -3,11 +3,8 @@ blog:
 categories:
   fun: diversão
   work: trabalho
-contact_note: Você pode até adicionar uma pequena observação sobre qual dessas é a melhor maneira de entrar em contato com você.
-footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-  Desenvolvido em <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> com o tema <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
-  Hospedado por <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Fotos do <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+contact_note: #Você pode até adicionar uma pequena observação sobre qual dessas é a melhor maneira de entrar em contato com você.
+footer_text:
 latest_posts: últimas postagens
 news: novidades
 selected_publications: publicações selecionadas
