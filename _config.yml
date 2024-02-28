@@ -7,7 +7,7 @@ first_name: Daniel
 middle_name:
 last_name: Gomes
 email: danielgomes@ime.unicamp.br
-keywords: math, mathematics, academic-website # add your own keywords or leave empty
+keywords: math, mathematics, academic-website, teaching # add your own keywords or leave empty
 icon: hawt_dawg.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://dangomes96.github.io # the base hostname & protocol for your site
