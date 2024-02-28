@@ -384,7 +384,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       i::before {
@@ -458,9 +458,9 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
-  border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
+  border-top: 0px solid var(--global-divider-color);
+  padding-top: 5px;
+  padding-bottom: 5px;
   font-size: 0.9rem;
 
   .container {
