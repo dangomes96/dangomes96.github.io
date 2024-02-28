@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://dangomes96.github.io/sitemap.xml
