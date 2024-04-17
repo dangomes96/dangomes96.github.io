@@ -4,7 +4,7 @@ layout: page
 permalink: /pesquisa/
 title: Research
 description:
-nav: true
+nav: false
 nav_order: 15
 ---
 

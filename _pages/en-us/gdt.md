@@ -3,13 +3,8 @@ page_id: gdt
 layout: page
 permalink: /gdt/
 title: Working Group
-description:
+description: Working Group in Dynamical Systems and Functional Analysis
 nav: true
 nav_order: 16
 ---
-
-<h4>Primeiro Semestre de 2024</h4>
-<ul>
-  <li><FONT COLOR="ORANGE"> 6 de junho</FONT>: Régis Varão. <i>Weighted shifts em dinâmica linear</i></li>
-  <li><FONT COLOR="ORANGE"> 13 de junho</FONT>: Daniel Gomes. <i>Operadores de composição em dinâmica linear</i></li>
-</ul>
+If you are interested in presenting or participating at the Working group, send an email to <a href="mailto:danielgomes@ime.unicamp.br">danielgomes@ime.unicamp.br</a>. You can find more information about the Working Group in the [page in Portuguese](/pt-br/gdt).

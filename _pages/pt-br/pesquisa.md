@@ -4,7 +4,7 @@ layout: page
 permalink: /pesquisa/
 title: Pesquisa
 description:
-nav: true
+nav: false
 nav_order: 15
 ---
 
