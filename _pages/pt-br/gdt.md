@@ -7,7 +7,6 @@ description: Grupo de Trabalho de Sistemas Dinâmicos e Análise Funcional
 nav: true
 nav_order: 16
 ---
-
 Os encontros do Grupo de Trabalho são realizados na sala X do [IMECC - Unicamp](https://ime.unicamp.br) às 10:00.
 
 Caso tenha interesse em apresentar ou participar do Grupo de Trabalho, envie um email para <a href="mailto:danielgomes@ime.unicamp.br">danielgomes@ime.unicamp.br</a>.
@@ -26,6 +25,7 @@ Caso tenha interesse em apresentar ou participar do Grupo de Trabalho, envie um 
 <span style="color: ORANGE;">Palestrante</span>: Régis Varão<br />
 <span style="color: ORANGE;">Data</span>: 13 de Junho<br />
 <span style="color: ORANGE;">Resumo</span>: Nesta apresentação, classificaremos os weighted shifts hipercíclicos.
+<hr />
 
 <h5>Organizadores</h5>
 <ul>
